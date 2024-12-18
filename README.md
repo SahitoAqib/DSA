@@ -1,7 +1,5 @@
-About Me
 I am a student of Artificial Intelligence (AI), passionate about solving problems and building efficient solutions through algorithms and data structures.
-
-Repository Overview
+Repository Overview:
 This repository showcases my journey through the DSA course, featuring:
 
 Implementations of fundamental data structures (arrays, linked lists, stacks, queues, trees, graphs, etc.).
